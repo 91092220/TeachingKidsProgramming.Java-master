@@ -1,0 +1,4 @@
+1449598438334	Extract method 'speedyTurtle'
+1449598834121	Extract method 'makeSlowTurtle'
+1449599012964	Extract method 'makeCrazyTurtle'
+1449599723120	Extract method 'myDrawTurtle'
